@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://poonamwagh113.com/sitemap.xml
